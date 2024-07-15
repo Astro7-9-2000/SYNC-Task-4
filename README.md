@@ -14,8 +14,8 @@
 <li> Step 2 - Import the required libraries </li>
 <li> Step 3 - Import the training Dataset and perform read operation on it. </li>
 <li> Step 5 - Data Preprocessing - Load the training data in the training module and testing data in the testing module. </li>
-<li> Step 6 - Data Visualization - Plot the images from the training data images in the form of a grid.<b> </li>
-<li> Step 7 - Model Development - Import the tensorflow framework and Keras API along with Keras Layers namely Convo2D , Dense , MaxPooling2D , Flatten , Batch Normalization and Dropout. </li> <li>Train the model using each layer to refine the data cleaning.</li>
+<li> Step 6 - Data Visualization - Plot the images from the training data images in the form of a grid. </li>
+<li> Step 7 - Model Development - Import the tensorflow framework and Keras API along with Keras Layers namely Convo2D , Dense , MaxPooling2D , Flatten , Batch Normalization and Dropout. > Train the model using each layer to refine the data cleaning.</li>
 <li> Compile the model.</li>
 <li> Step 8 - Model Training - Train the model using the cleaned training dataset and extract the text and label columns from the DataFrame to create a text Dataset.</li>
 <li> Step 9 - Model Evalutaion - Generate a Correlation Matrix for the dataframe generated in the previous step and evaluate the model using the different Keras Layers.</li>
